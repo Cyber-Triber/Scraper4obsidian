@@ -44,9 +44,13 @@ python scraper.py
 ## Funkce / Features
 
 ✅ Scrapování HTML obsahu do Markdownu 
+
 ✅ Zpracování sitemap.xml 
+
 ✅ Možnost čištění HTML obsahu 
+
 ✅ Ukládání do strukturovaných složek podle domény 
+
 ✅ Logování a debugovací režim
 
 ## Autor / Author
